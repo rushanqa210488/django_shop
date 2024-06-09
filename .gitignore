@@ -3,7 +3,7 @@ idea
 .DS_Store
 
 *.egg-info
-env
+.env
 
 dist
 db.sqlite3
